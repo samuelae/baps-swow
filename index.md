@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Online Wortassoziationsstudie
+## Willkommen zur Instruktionsseite für die Studienteilnahme
+Die Studie findet in einem grösseren Rahmen online statt, auch andere Personen nehmen daran teil. Um als Student/-in im Bachelor Psychologie einen Credit/Unterschrift für die Teilnahme zu bekommen sind folgende Schritte nötig, bitte lies die Intruktionen aufmerksam durch. 
 
-You can use the [editor on GitHub](https://github.com/samuelae/baps-swow/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## 1. Code-E-Mail erstellen
+Geh als erstes auf die untenstehende Seite um einen 6-stelligen Code zu erzeugen. Öffne die Seite in einem neuen Tab/Fenster.
+[Code generieren](http://www.randomnumberapi.com/api/v1.0/randomstring?min=6&max=6) 
+Erstelle dann deine Code-E-Mail die das folgende Format hat:
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samuelae/baps-swow/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+{6-stelliger Code}@baps-swow.ch
+```
+Die Code-E-Mail könnte dann zum Beispiel so aussehen: `AJpsVH@baps-swow.ch`
+Diese Code-E-Mail ist wichtig, sodass wir dich in der Studie erkennen können. Du musst sie jedes Mal bei der Teilnahme angeben, speichere die generierten Code-E-Mail an einem Ort auf deinem Computer, an dem du sie wieder findest (z.B. Text Dokument auf dem Desktop, Notizen App o.ä.).
