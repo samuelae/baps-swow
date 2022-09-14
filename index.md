@@ -1,5 +1,6 @@
 ---
-title: BAPS Wortassoziationsstudie
+title: "BAPS Wortassoziationsstudie"
+layout: page
 ---
 
 ## Willkommen zur Instruktionsseite für die Studienteilnahme
