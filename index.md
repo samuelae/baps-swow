@@ -1,3 +1,7 @@
+---
+title: BAPS Wortassoziationsstudie
+---
+
 ## Willkommen zur Instruktionsseite für die Studienteilnahme
 Die Studie findet in einem grösseren Rahmen online statt, auch andere Personen nehmen daran teil. Um als Student/-in im Bachelor Psychologie einen Credit/Unterschrift für die Teilnahme zu bekommen sind folgende Schritte nötig, bitte lies die Intruktionen aufmerksam durch. 
 
