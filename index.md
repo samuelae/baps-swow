@@ -21,9 +21,9 @@ Diese Code-E-Mail ist wichtig, sodass wir dich in der Studie erkennen können. D
 Du bist nun bereit, um deine fünf Teilnahmen mit der ersten Teilnahme zu beginnen. Achtung, du darfst pro Tag nur ein Mal an der Studie teilnehmen. Am besten du stellst dir einen Reminder für die nächsten Tage, sodass du nicht vergisst, weiter zu machen. Bearbeite die Studie gemäss den Angaben, die dir gezeigt werden. Das dauert ca. 5 Minuten. **Am Schluss jeder Teilnahme ist es wichtig, dass du deine Code-E-Mail die du soeben generiert hast in das Fenster eingibst, das für E-Mail Adressen vorgesehen ist um auf dem Laufenden zu bleiben.** 
 
 ## 💰 3. Teilnahmen abschliessen und Unterschrift erhalten
-Nachdem du fünf mal an der Small World Of Words Studie teilgenommen hast (und fünf mal deine Code-E-Mail am Ende angegeben hast), kannst du nun deine hart erarbeitete Unterschrift beantragen. Schreib dazu eine E-Mail an [a.bajrami@unibas.ch](mailto:a.bajrami@unibas.ch) in der du deine Code-E-Mail angibst und deinen Vor- und Nachnamen. Wir kontrollieren dann, ob du fünf Mal an fünf verschiedenen Tagen teilgenommen hast und geben dir die Unterschrift in BAPS frei. 
+Nachdem du fünf mal an der Small World Of Words Studie teilgenommen hast (und fünf mal deine Code-E-Mail am Ende angegeben hast), kannst du nun deine hart erarbeitete Unterschrift beantragen. Schreib dazu eine E-Mail an [cds-psych@unibas.ch](mailto:cds-psych@unibas.ch) in der du deine Code-E-Mail angibst und deinen Vor- und Nachnamen. Wir kontrollieren dann, ob du fünf Mal an fünf verschiedenen Tagen teilgenommen hast und geben dir die Unterschrift in BAPS frei. 
 
 ## 🚀 Los geht's!
 Du kannst nun den Link zur eigentlichen Studie in einem neuen Tab/Fenster öffnen [Studie öffnen](https://www.smallworldofwords.org/de) und daran teilnehmen. In den nächsten Tagen bearbeitest du bitte die Studie unter diesem Link noch weitere vier Mal und gibst jedes mal deine Code-E-Mail am Schluss an.
 
-Wenn du irgendwelche Fragen hast, kannst du gerne eine E-Mail an [a.bajrami@unibas.ch](mailto:a.bajrami@unibas.ch) schicken.
+Wenn du irgendwelche Fragen hast, kannst du gerne eine E-Mail an [cds-psych@unibas.ch](mailto:cds-psych@unibas.ch) schicken.
